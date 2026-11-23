@@ -1,5 +1,7 @@
 # npi-launch-kit
 
+> **Moved.** This project now lives in [revenue-systems/npi-launch-kit](https://github.com/su0xpj-bastion/revenue-systems/tree/main/npi-launch-kit), where it is maintained and tested. This repository is archived and read-only.
+
 Launching a new product or price is a change to many systems: catalog, quoting, approvals,
 contracts, billing, tax and finance reporting. This kit runs that change from **one pricing spec**,
 from the first pricing conversation to the first invoice. Every downstream artifact is derived
